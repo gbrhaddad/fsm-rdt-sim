@@ -1,6 +1,3 @@
-/********* STUDENTS WRITE THE NEXT SEVEN ROUTINES *********/
-// Labbgrupp:15 Daniel Meladi
-
 #include "Stud.h"
 #include <stdbool.h>
 #include <string.h>
